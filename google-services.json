@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "176818143706",
+    "firebase_url": "https://lost-and-found-8147b.firebaseio.com",
+    "project_id": "lost-and-found-8147b",
+    "storage_bucket": "lost-and-found-8147b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:176818143706:android:f369af7c4fea44175f00e3",
+        "android_client_info": {
+          "package_name": "com.example.myapplication"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "176818143706-dv2gmgdivcufmdjm2c7g2n8l2bu9eo8t.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBexBmvYnjWS7uR6yg1vQPDtPr_GaXy3UQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "176818143706-dv2gmgdivcufmdjm2c7g2n8l2bu9eo8t.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
