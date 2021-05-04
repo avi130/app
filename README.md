@@ -1,6 +1,7 @@
 # lost-and-foun
 <div dir='rtl' lang='he'>
-![](https://i.postimg.cc/QFfYFS6m/2021-05-04-123330.png)
+ ![](https://i.postimg.cc/TP6zH4gz/2021-05-04-123330.png)
+ ![](https://i.imgur.com/HmmM5GS.png)
 
 ##  תיאור כללי של המערכת
 האפליקציה שלנו באה לענות על הצורך לקשר בין אדם שאיבד/מצא פריט כלשהו לבין שאר המשתמשים ע"י שיתוף הפריטים באפליקציה.
